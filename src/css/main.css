@@ -402,3 +402,7 @@
         float: left;
     }
 }
+
+.row:first-child{
+    background-color: #f8f8f8;
+}
